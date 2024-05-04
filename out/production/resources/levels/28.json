@@ -1,0 +1,27 @@
+{
+  "numFlashcards": 3,
+  "title": "newlevel100",
+  "flashcards": {
+    "18": {
+      "question": "a",
+      "answer": "b"
+    },
+    "69": {
+      "question": "b",
+      "answer": "c"
+    },
+    "86": {
+      "question": "c",
+      "answer": "d"
+    }
+  },
+  "random": {
+    "seed": 97697408872358,
+    "nextNextGaussian": 0.0,
+    "haveNextNextGaussian": false
+  },
+  "score": {
+    "correctAnswers": 0,
+    "totalPoints": 3
+  }
+}

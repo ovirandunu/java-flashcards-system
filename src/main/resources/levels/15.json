@@ -1,0 +1,14 @@
+{
+  "numFlashcards": 0,
+  "title": "elke",
+  "flashcards": {},
+  "random": {
+    "seed": 75517892428077,
+    "nextNextGaussian": 0.0,
+    "haveNextNextGaussian": false
+  },
+  "score": {
+    "correctAnswers": 0,
+    "totalPoints": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "numFlashcards": 0,
+  "title": "ffd",
+  "flashcards": {},
+  "random": {
+    "seed": 272991390665149,
+    "nextNextGaussian": 0.0,
+    "haveNextNextGaussian": false
+  },
+  "score": {
+    "correctAnswers": 0,
+    "totalPoints": 0
+  }
+}
